@@ -34,3 +34,8 @@ Para complementar este proyecto, realizo mediante la API "OMDb API", una extracc
 "List of Academy Award-winning films" - https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films
 
 "IMDb.csv" - https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+
+
+  📜 Un poco de historia:
+
+Los antecedentes de IMDb se remontan a 1989, cuando un aficionado publicó una discusión en un grupo de noticias en usenet sobre actrices atractivas. A partir de ese momento, otros usuarios de la lista comenzaron a recopilar actores y actrices con las películas en las que habían intervenido. La base de datos original fue construida a partir de las listas de créditos que Col Needham y otros dos lectores, Dave Knight y Andy Krieg, habían comenzado a publicar en el grupo. Needham publicó en septiembre de 1991 la primera herramienta simple (una serie de "shell scripts" de Unix) que permitía la consulta de las listas existentes en ese momento: la lista de directores, la de actores, la de actrices y la de actores fallecidos. Con la fusión de las cuatro la base de datos resultante se convertiría finalmente en la IMDb.
