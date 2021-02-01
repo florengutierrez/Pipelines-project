@@ -1,6 +1,6 @@
 ![IMDb](/images/IMDB.png)
 
-### PIPLINE-PROJECT
+### PIPELINE-PROJECT
 
 
 En este proyecto realizo una pequeña limpieza de un dataset descargado de kaggle.com, y a través de la técnica de 
