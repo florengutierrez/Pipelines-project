@@ -18,6 +18,8 @@ Además obtendremos el top 10 de IMDb y de Academy Award-winning films.
 
 - Por último en visualisation.ipynb(src) encontramos un par de gráficos donde podremos visualizar algunos aspectos sobre lo       trabajado.
 
+Para complementar este proyecto, realizo mediante la API "OMDb API", una extracción de los posters del top 3 obtenido anteriormente en el merge.
+
 #### Librerías 📚
 
 - Pandas
