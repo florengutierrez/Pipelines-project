@@ -12,12 +12,12 @@ Web-scraping, extraigo información sobre "List of Academy Award-winning films".
 Guía del proyecto:
 
 - En functions.py(src) encontraremos las funciones de descarga del dataset, pequeña limpieza de este, y obtencion de tabla    
-  mediante Web-scraping.
+mediante Web-scraping.
 
-- En merge.ipynb(src) nos encontramos con una pequeña limpieza de ambos dataframes(anteriormente obtenimos en functions.py), y       realizamos un merge de ambos.
-  Además obtendremos el top 10 de IMDb y de Academy Award-winning films.
+- En merge.ipynb(src) nos encontramos con una pequeña limpieza de ambos dataframes(anteriormente obtenimos en functions.py), y      realizamos un merge de ambos.
+Además obtendremos el top 10 de IMDb y de Academy Award-winning films.
 
-- Por último en visualisation.ipynb(src) encontramos un par de gráficos donde podremos visualizar algunos aspectos sobre lo         trabajado.
+- Por último en visualisation.ipynb(src) encontramos un par de gráficos donde podremos visualizar algunos aspectos sobre lo       trabajado.
 
 #### Librerías 📚
 
