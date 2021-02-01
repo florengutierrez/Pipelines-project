@@ -1,5 +1,5 @@
-.DS_Store
+src/.DS_Store
 merge.csv
 top10_IMDb.csv
-__pycache__
-.ipynb_checkpoints
+src/__pycache__
+src/.ipynb_checkpoints
