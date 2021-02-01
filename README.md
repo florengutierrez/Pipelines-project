@@ -7,7 +7,7 @@ En este proyecto realizo una pequeña limpieza de un dataset descargado de kaggl
 
 Web-scraping, extraigo información sobre "List of Academy Award-winning films". Sobre esto, lanzo un hipótesis:
 
-#### "¿Está relacionada la puntuación de las peliculas que ofrece IMDb, con aquellas ganadoras de premios Oscars?  
+#### ¿Están relacionadas las valoraciones de IMDb, con las películas ganadoras de premios Oscars?🎞
 
 🎬 Guía del proyecto: 
 
